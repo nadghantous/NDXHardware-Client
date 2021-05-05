@@ -1,0 +1,31 @@
+.Table-header{
+    background-color: black;
+    color: #0eff00;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+.Table{
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+}
+.Odd-Row{
+    background-color: black;
+    border: 1px solid black;
+    color: #0eff00;
+    font-family: Orbitron-VariableFont_wght;
+}
+.Even-Row{
+    background-color: black;
+    border: 1px solid black;
+    color: #0eff00;
+    font-family: Orbitron-VariableFont_wght;
+}
+table::-webkit-scrollbar{
+    color: #0eff00;
+    background-color: black;
+}
+table::-webkit-scrollbar-thumb{
+    background-color: #0eff00;
+}
